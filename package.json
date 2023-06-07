@@ -1,0 +1,19 @@
+{
+  "name": "demo-nodejs",
+  "version": "1.0.0",
+  "description": "demo nodejs",
+  "main": "filesnavbar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvivek25/demo-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvivek25/demo-nodejs/issues"
+  },
+  "homepage": "https://github.com/mvivek25/demo-nodejs#readme"
+}
